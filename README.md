@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- level 1: simple bio and stats -->
 
-<!--
-**tacticalsekt/tacticalsekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h6 align="center">check link </h6> 
+<p align="center">
+  ￼
+</p>
+ 
+　<h4 align="center">　  　[rentry](https://rentry.co/cptmc)　﹒ 　[ata](https://cptmc.atabook.org/)　﹒ 　[prns.page](https://pronouns.cc/@LINKEDGUT)　</h3>
 
-Here are some ideas to get you started:
+ 
+ <h6 align="center"> ic : veilziz </h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
