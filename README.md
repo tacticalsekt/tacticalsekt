@@ -7,7 +7,7 @@
 </p>
 </p>
  
-　<h4 align="center">　  　[rentry](https://rentry.co/cptmc)　﹒ 　[ata](https://cptmc.atabook.org/)　</h3>
+　<h4 align="center">[rentry](https://rentry.co/cptmc)　﹒ 　[ata](https://cptmc.atabook.org/)　</h3>
 
  
  <h6 align="center"> ic : searching </h6>
